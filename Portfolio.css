@@ -1,0 +1,36 @@
+#frist {
+            background-color:gray;
+           font-style: italic;
+           font-size: larger; 
+           background-image: url(/img/omkar\ photo.jpg);
+           background-repeat: no-repeat;
+           background-size: 150px;
+           background-position: initial;
+           width: 20vw;
+           
+}
+
+#frist a:hover{
+    background-color: rgb(233, 23, 23);
+    color: lightgrey;
+
+}
+.about{
+    color:wheat;
+}
+.second{
+    background-color:rgb(190, 190, 144);
+}
+#frist nav{
+    font-weight: bold;
+
+}
+#frist ul{
+    color: black;
+}
+.third{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(241, 179, 63);
+}
+
+   
